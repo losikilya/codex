@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App render render should render and match snapshot 1`] = `"<div class=\\"App\\"><header class=\\"App-header\\"><div tabindex=\\"0\\"><input type=\\"file\\" multiple=\\"\\" style=\\"display:none\\" autoComplete=\\"off\\" tabindex=\\"-1\\"/><p>Drag &#x27;n&#x27; drop file here, or click to select it</p></div></header></div>"`;
